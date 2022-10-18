@@ -1,7 +1,7 @@
 {
   "name": "42-react-native-awesome-gallery",
   "version": "0.3.5",
-  "description": "42-react-native-awesome-gallery",
+  "description": "Awesome gallery with Reanimated v2",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
@@ -38,7 +38,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Flair-Dev/react-native-awesome-gallery.git"
+    "url": "git+https://github.com/xz870603611/42-react-native-awesome-gallery.git"
   },
   "author": "pavelbabenko <pavelbabenko01@gmail.com> (https://github.com/pavelbabenko)",
   "license": "MIT",
